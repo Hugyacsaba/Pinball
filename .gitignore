@@ -1,0 +1,14 @@
+# Unreal generated / cache fájlok
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE / rendszer
+.vs/
+.vscode/
+.idea/
+
+# OS fájlok
+.DS_Store
+Thumbs.db
